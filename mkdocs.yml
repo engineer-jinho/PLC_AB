@@ -1,0 +1,15 @@
+site_name: PLC-AB 내용 정리
+
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - 홈: index.md
+  - 제품소개:
+    - 'Hardware': '01_products/products.md'
+    - 'Software': '01_products/software.md'
+
+
